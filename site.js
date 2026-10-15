@@ -6,7 +6,7 @@ const PRYDE = {
  'Neckwear':['Classic neckties','Slim ties','Striped ties','Patterned ties','Knitted ties','Bow ties','Cravats'],
  'Executive Layering':['Sweaters','V-neck sweater vests','Turtlenecks','Cardigans','Lightweight overcoats']
  }},
- footwear:{title:"Men's Executive Footwear",slug:'footwear',desc:'Polished leather classics and versatile smart-casual footwear, made to complete the look.',image:'https://images.unsplash.com/photo-1614252369475-5313661a9d8c?auto=format&fit=crop&w=1000&q=85',subs:{
+ footwear:{title:"Men's Executive Footwear",slug:'footwear',desc:'Polished leather classics and versatile smart-casual footwear, made to complete the look.',image:'https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=1000&q=85',subs:{
  'Formal Leather Shoes':['Oxford shoes','Derby shoes','Brogue shoes','Cap-toe shoes','Wholecut shoes','Monk-strap shoes'],
  'Smart-Casual Footwear':['Penny loafers','Tassel loafers','Horsebit loafers','Chelsea boots','Formal leather ankle boots']
  }},
